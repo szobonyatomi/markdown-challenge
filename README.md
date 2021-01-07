@@ -10,7 +10,7 @@
 | Favorite food: | paella |
 
 
-Birthday | 09.06.77 | Pretty
+Birthday | 09.06.77
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
