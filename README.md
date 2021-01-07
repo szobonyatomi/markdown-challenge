@@ -6,9 +6,8 @@
 #### Like a giraffe;)
 
 
-
---- | --- 
 Birthday | 09.06.77
+--- | --- 
 Favorite color | blue 
 Favorite food | paella 
-Pizza with ananas | ee
+Pizza with ananas | - [ ]
