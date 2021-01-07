@@ -10,7 +10,7 @@
 | Favorite food: | paella |
 
 
-Birthday: | 09.06.77 
+Markdown | Less | Pretty
 --- | --- | ---
-Favorite color:  | blue 
+*Still* | `renders` | **nicely**
 1 | 2 | 3
