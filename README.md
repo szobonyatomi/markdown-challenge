@@ -11,6 +11,6 @@
 
 
 Birthday | 09.06.77
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+--- | --- 
+*Still* | `renders` 
+1 | 2 
