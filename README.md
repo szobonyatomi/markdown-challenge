@@ -4,3 +4,7 @@
 ![Tomi](image/profilpic.jpg)
 
 #### Like a giraffe;)
+
+Birthday:| 09.06.77
+Favorite color:| Blue
+Favorite food:| paella
