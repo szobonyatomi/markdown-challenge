@@ -5,6 +5,6 @@
 
 #### Like a giraffe;)
 
-|Birthday:| 09.06.77|
-|Favorite color:| Blue|
-|Favorite food:| paella|
+| Birthday: | 09.06.77 |
+| Favorite color: | Blue |
+| Favorite food: | paella |
