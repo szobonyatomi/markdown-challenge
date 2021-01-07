@@ -10,4 +10,4 @@ Birthday | 09.06.77
 --- | --- 
 Favorite color | blue 
 Favorite food | paella 
-Pizza with pineapple | :white_check_mark:
+Pizza with pineapple | &#9744; 
