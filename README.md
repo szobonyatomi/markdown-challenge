@@ -6,7 +6,7 @@
 #### Like a giraffe;)
 
 
-Birthday | 09.06.77
+
 --- | --- 
 Birthday | 09.06.77
 Favorite color | blue 
