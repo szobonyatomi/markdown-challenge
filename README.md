@@ -8,3 +8,9 @@
 | Birthday: | 09.06.77 |
 | Favorite color: | Blue |
 | Favorite food: | paella |
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
