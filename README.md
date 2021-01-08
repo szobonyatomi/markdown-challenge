@@ -10,7 +10,7 @@
 |--------- | ---------| 
 | Favorite color | blue | 
 | Favorite food | paella |
-| Pizza with pineapple | :x: |
+| Pizza with pineapple | &#9744; |
 
 
 
