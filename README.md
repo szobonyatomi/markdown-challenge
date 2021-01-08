@@ -6,11 +6,11 @@
 #### Like a giraffe
 
 
-Birthday | 09.06.77
---- | --- 
-Favorite color | blue 
-Favorite food | paella 
-Pizza with pineapple | <input type="checkbox" disabled />
+| Birthday | 09.06.77 |
+|--------- | ---------| 
+| Favorite color | blue | 
+| Favorite food | paella |
+| Pizza with pineapple | <input type="checkbox" disabled /> |
 
 
 
