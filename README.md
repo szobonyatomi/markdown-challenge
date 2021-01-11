@@ -31,11 +31,9 @@ https://szobonyatomi.github.io/markdown-warmup-html/
  differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.</sup></sub>
 
 
-<<<<<<< HEAD
-[Chardome Thomas](https://github.com/ChardomeThomas/markdown-challenge) || [Szobonya Tomi] || [William Vassaux](https://github.com/Williamson911/markdown-challenge) 
-=======
+
+
 [Chardome Thomas](https://github.com/ChardomeThomas/markdown-challenge) || Szobonya Tomi || [William Vassaux](https://github.com/Williamson911/markdown-challenge) 
->>>>>>> 3ca2f4974928503940683a3f27b63f22ae8725b0
 
 
 
