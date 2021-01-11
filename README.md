@@ -1,6 +1,7 @@
 # Szobonya Tomi
 
-html:  https://szobonyatomi.github.io/markdown-warmup-html/
+https://szobonyatomi.github.io/markdown-warmup-html/
+
 *The first rule about the club is you don't talk about the club.*
 
 ![Tomi](image/selfpic.png)
